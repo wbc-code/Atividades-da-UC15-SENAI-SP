@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather.WebApi", "Weather.WebApi\Weather.WebApi.csproj", "{659CCBA6-1150-4EC2-951B-AD8AAAD5CAB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather.Tests", "Weather.Tests\Weather.Tests.csproj", "{D019287F-E9E5-4777-80F0-9C9AB839D59D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659CCBA6-1150-4EC2-951B-AD8AAAD5CAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659CCBA6-1150-4EC2-951B-AD8AAAD5CAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659CCBA6-1150-4EC2-951B-AD8AAAD5CAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659CCBA6-1150-4EC2-951B-AD8AAAD5CAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D019287F-E9E5-4777-80F0-9C9AB839D59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D019287F-E9E5-4777-80F0-9C9AB839D59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D019287F-E9E5-4777-80F0-9C9AB839D59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D019287F-E9E5-4777-80F0-9C9AB839D59D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AE64102-1CC7-4908-AD9C-B94ADD99BA12}
+	EndGlobalSection
+EndGlobal
